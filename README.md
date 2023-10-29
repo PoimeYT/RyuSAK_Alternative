@@ -1,5 +1,8 @@
 # RyuSAK
 
+
+# NOT WORKING YET, I NEED TO FIX THINGS
+
 ![showDownloads](https://img.shields.io/github/downloads/Ecks1337/RyuSAK/total?style=for-the-badge)
 ![showVersion](https://img.shields.io/github/package-json/v/Ecks1337/RyuSAK?style=for-the-badge)
 ![showLicense](https://img.shields.io/github/license/Ecks1337/RyuSAK?style=for-the-badge)
